@@ -1,0 +1,53 @@
+HOTEL LUNGARNO - LUNGARNO COLLECTION 
+Rome
+hotel
+50
+CA' SAGREDO
+Milan
+hotel
+60
+GRAND HOTEL PALACE
+Venezia
+hotel
+65
+SINA THE GRAY
+Rimini
+hotel
+55
+GRAND HOTEL PLAZA
+Genuya
+hotel
+75
+GRAND HOTEL VILLA SERBELLONI  
+Verona
+hotel
+80
+GRAND HOSTEL ET DE MILAN 
+Milan
+hostel
+30
+ALDROVANDI VILLA BORGHESE 
+Rome
+hostel
+25
+GRAND HOSTEL SAN PIETRO
+Venezia
+hostel
+30
+BERNINI PALACE
+Rimini
+hostel
+28
+FOUR SEASONS HOSTEL
+Genuya
+hostel
+19
+VIA VENETO 
+Bari
+hostel
+23
+MANIN 
+Verona
+hostel
+26
+_

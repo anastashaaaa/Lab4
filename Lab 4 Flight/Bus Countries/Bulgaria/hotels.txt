@@ -1,0 +1,57 @@
+BARCELO ROYAL BEACH 
+Verna
+hotel
+30
+GRAND HOTEL
+Sophia
+hotel
+30
+MELIA GRAND HERMITAGE 
+Plovdyv
+hotel
+45
+DUNE 
+Burgas
+hotel
+35
+PLANETA HOTEL & AQUAPARK 
+Nesebyr
+hotel
+35
+IMPERIAL PALACE
+Obzor
+hotel
+50
+VILLA MARIA REVAS 
+Sunny Beach
+hotel
+100
+SUNSET RESORT 
+Verna
+hostel
+20
+PARADISE BEACH
+Sophia
+hostel
+25
+ROYAL HOSTEL
+Plovdyv
+hostel
+25
+HOSTEL ADMIRAL
+Burgas
+hostel
+15
+MOONLIGHT HOSTEL
+Nesebyr
+hostel
+20
+THERMA PALACE 
+Obzor
+hostel
+15
+SOL NESSEBAR BAY  
+Sunny Beach
+hostel
+21
+_

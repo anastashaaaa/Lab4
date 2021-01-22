@@ -1,0 +1,199 @@
+Club & Hotel Letoonia
+Fethiye
+5
+900
+Jiva Beach Resort
+Nevsehir
+5
+897
+D-Resort Gocek
+Bodrum
+5
+988
+Club Tuana
+Istanbul
+5
+670
+Hillside Beach Club
+Izmir
+5
+380
+Golden Life Blue Green Residence
+Antalya
+5
+390
+Greenland
+Ankara
+5
+300
+Hillside Beach Club
+Milas
+5
+312
+Flora Palm Resort
+Urgup
+5
+677
+Bezay Hotel
+Marmaris
+5
+560
+Kayakapi Premium Caves Cappadocie
+Fethiye
+5
+400
+Susona Bodrum
+Nevsehir
+5
+210
+Six Senses Kaplankaya
+Bodrum
+5
+444
+Avantgarde Yalikavak Hotel
+Istanbul
+5
+345
+Raffles Istanbul
+Izmir
+5
+617
+Mandarin Oriental Bodrum
+Antalya
+5
+890
+The Bodrum
+Ankara
+5
+256
+The St. Regis Istanbul
+Milas
+5
+238
+D Maris Bay
+Urgup
+5
+Museum Hotel Cappadocia
+Marmaris
+5
+756
+Cennet Life
+Fethiye
+4
+344
+Infinity Lily Apartments
+Nevsehir
+4
+200
+Lidya Hotel
+Bodrum
+4
+157
+Yacht Boheme Hotel-Boutique Class
+Istanbul
+4
+150
+Hotel Delta
+Izmir
+4
+120
+Hotel Truva
+Antalya
+4
+100
+Besik Hotel
+Ankara
+4
+89
+Daphne Residence
+Milas
+4
+93
+Kaizen Gate Hotel
+Urgup
+4
+76
+Orka Boutique Hotel
+Marmaris
+4
+70
+Hotel Berlin
+Fethiye
+3
+56
+Eroglu City Hotel
+Nevsehir
+3
+60
+Artim Exclusive Apart Hotel
+Bodrum
+3
+65
+Sea Heaven Legend Apartments
+Istanbul
+3
+45
+Nehir Apart Hotel
+Izmir
+3
+50
+Ece Marina Suit
+Antalya
+3
+68
+Hotel Feryil Centrum
+Milas
+3
+45
+Club Tuana
+Urgup
+3
+56
+Mara Hotel
+Ankara
+3
+74
+Makri Beach Hotel
+Marmaris
+40
+Marina Boutique
+Bodrum
+2
+38
+Erciyes Apart Hotel
+Istanbul
+2
+36
+Ideal Pansiyon
+Nevsehir
+2
+40
+Villa Mare
+Antalya
+2
+35
+Sirin Pansiyon
+Milas
+2
+30
+Olimpia Hotel
+Fethiye
+1
+20
+Kadyanda Apartments
+Nevsehir
+1
+23
+Levent Hotel
+Izmir
+1
+25
+Amintas Hostel Motel
+Marmaris
+1
+29
+Stella City Apartments
+Istanbul
+1
+21
+_

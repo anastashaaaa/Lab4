@@ -1,0 +1,172 @@
+Radisson Blu Hotel
+Abu Dhabi
+5
+876
+Jumeirah Zabeel Saray
+Ajman
+5
+910
+Ibn Battuta Gate Hotel
+Dubai
+5
+1050
+Bonnington Jumeirah Lakes Towers
+Ras Al Khaimah
+5
+852
+Al Wadi Desert, Ras Al Khaimah
+Fujairah
+5
+910
+Shangri-La Hotel
+Sharjah
+5
+699
+Ritz-Carlton International Financial Centre
+El Ain
+5
+1650
+Jumeirah Creekside Hotel
+Dubai-Hatta
+5
+768
+Jumeirah Living World Trade Centre Residence
+Bulb
+5
+1256
+Jumeirah at Etihad Towers Hotel
+Dibba
+5
+737
+The St. Regis Saadiyat Island Resort
+Ras Al Khaimah
+5
+675
+Hilton Capital Grand Abu Dhabi
+El Ain
+5
+890
+Park Hyatt Abu Dhabi Hotel and Villas
+Abu Dhabi
+5
+10560  
+Kempinski Hotel and Residences
+Abu Dhabi
+4
+678
+Dusit Thani
+Ajman
+4
+467
+Anantarа
+Dubai
+4
+500
+JW Marriott Marquiі
+Ras Al Khaimah
+4
+443
+Fairmont The Palm
+El Ain
+4
+480
+Rosewood
+Fujairah
+4
+400
+The St. Regis
+Hatta
+4
+300
+The Ritz Carlton
+Dibba
+4
+320
+The Palm
+Bulb
+4
+211
+Anantara Al Yamm Villa Resort
+Sharjah
+4
+200
+Oberoi
+Abu Dhabi
+3
+53
+Waldorf Astoria
+Ajman
+3
+52
+Ajman
+Dubai
+3
+80
+Conrad
+Ras Al Khaimah
+3
+67
+Waldorf Astoria
+El Ain
+3
+70
+Palazzo Versace
+Fujairah
+3
+90
+Four Seasons
+Hatta
+3
+78
+Habtoor Palace
+Dibba
+3
+65
+Taj Hotel
+Bulb
+3
+60
+Park Hyatt
+Sharjah
+3
+100
+Cosmopolitan Hotel
+Sharjah
+2
+40
+Movenpick Hotel Ibn Battuta Gate
+Bulb
+2
+39
+One & Only Royal Mirage Arabian Court
+Dibba
+2
+45
+Grosvenor House
+Hatta
+2
+52
+Grand Millennium Al Wahda
+Fujairah2
+37
+Royal Tulip 72 Hotel
+Abu Dhabi
+1
+28
+Holiday Inn Express Dubai Airport
+Ajman
+1
+25
+Tryp By Wyndham Dubai
+Ras Al Khaimah
+1
+36
+Madinat Jumeirah Al Naseem
+Dubai
+1
+30
+Golden Sands 3 Aparthotel
+Dibba
+1
+20
+_

@@ -1,0 +1,189 @@
+JK Place
+Paris
+5
+300
+Cour des Vosges
+Lyon
+5
+380
+InterContinental
+Cap d' Antibes
+5
+97
+Hotel Kabuki
+Nice
+5
+320
+Sinner Hotel
+Gordes
+5
+100
+Hotel Villa Franca 
+Eugenie-les-Bains
+5
+120
+Grand Powers-Monestier
+Dordogne
+5
+370
+San Francisco Proper
+Ramatuelle
+5
+297
+Hotel Bowmann
+D'Antibes
+5
+273
+Brach Paris
+Martillac
+5
+250
+Hotel Juana
+Paris
+5
+187
+Grand Hyatt
+Lyon
+5
+259
+Radisson Blu Hotel
+Cap d' Antibes
+5
+123
+Renaissance Le Parc Trocadero
+Nice
+5
+108
+The Chess Hotel
+Gordes
+5
+234
+Le Roch Hotel & Spa-Eugenie
+les-Bains
+5
+117
+French Coco
+Martillac
+5
+350
+Ferme Saint Simeon
+Paris
+4
+86
+Aman Le Melezin
+Lyon
+4
+80
+Hotel Bel Ami Paris
+Cap d' Antibes
+4
+70
+Nolinski
+Nice
+4
+73
+Claremont Club and Spa
+Gordes
+4
+88
+La Bastide de Gordes
+Eugenie-les-Bains
+4
+100
+Cap d'Antibes Beach Hotel
+Monestier-Dordogne
+4
+90
+Les Pres d'Eugenie
+Ramatuelle
+4
+73
+La Reserve Hotel and Spa
+D'Antibes
+4
+75
+Chateau des Vigiers
+Martillac
+4
+88
+Hotel Molitor Paris
+Paris
+3
+50
+La Reserve Ramatuelle
+Lyon
+3
+55
+Hotel du Cap Eden Roc
+Cap d' Antibes
+3
+60
+Les Sources de Caudalie
+Nice
+3
+65
+Hotel Le Littre
+Gordes
+3
+53
+Victoria Palace Hotel-Eugenie
+les-Bains
+3
+51
+The Peninsula Paris-Monestier
+Dordogne
+3
+49
+Hotel de Tropez
+Ramatuelle
+3
+47
+Casa Madrona Hotel and Spa
+D'Antibes
+3
+58
+Auberge du Jeu de Paume
+Martillac
+3
+40
+Cheval Blanc
+Paris
+2
+38
+Grand Hotel du Palais Royal Cap 
+D' Antibes
+2
+47
+L'Apogee
+Gordes
+2
+33
+Hotel Le K2 Palace
+Monestier-Dordogne
+2
+44
+Buddha Bar Hotel
+D'Antibes
+2
+35
+Cheval Blanc St-Barth Isle de France
+Lyon
+1
+20
+Hotel Zetta
+Nice
+1
+26
+InterContinental Hotel
+Eugenie-les-Bains
+1
+21
+Le Hameau Albert 1er
+Ramatuelle
+1
+30
+Hotel St. Francis
+Martillac
+1
+22
+_

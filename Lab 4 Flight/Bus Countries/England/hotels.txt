@@ -1,0 +1,57 @@
+Hilton London Metropole Hotel
+London
+hotel
+100
+The Tower Hotel
+Manchester
+hotel
+78
+St Pancras Hotel
+Liverpool
+hotel
+65
+DoubleTree Hyde Park Hotel
+Birmingham
+hotel
+88
+The Thistle Park Hotel
+Cambridge
+hotel
+95
+Amba Hotel Charing Cross
+Rochdeil
+hotel
+60
+Amba Hotel Marble Arch
+Rochester
+hotel
+50
+The Athenaeum Hostel
+London
+hostel
+10
+The Royal Horseguards 
+Manchester
+hostel
+12
+Thistle Barbican Shoreditch Hostel
+Liverpool
+hostel
+15
+Novotel hostel
+Birmingham
+hostel
+15
+Strand Palace Hostel
+Cambridge
+hostel
+17
+The Mandeville Hostel
+Rochdeil
+hostel
+17
+Rathbone Hostel
+Rochester
+hostel
+20
+_
